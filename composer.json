@@ -1,6 +1,6 @@
 {
     "name": "horizontalintegration/hilightning",
-    "type": "drupal-custom-profile",
+    "type": "drupal-profile",
     "description": "Sub-profile of Acquia Lightning used by Horizontal Integration",
     "license": "GPL-2.0-or-later",
     "config": {
